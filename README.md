@@ -48,7 +48,7 @@
   
   • To run the application, enter the command: npm run test
 
-  <a href=" " target="_blank">Click here to watch the video walkthrough</a>
+  <a href="https://drive.google.com/file/d/1BA31tdinpuDpSPHyMgXb3DLNnOujA-b0/view" target="_blank">Click here to watch the video walkthrough</a>
 
   ## Screenshots
 
