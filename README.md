@@ -51,6 +51,8 @@
   <a href="https://drive.google.com/file/d/1BA31tdinpuDpSPHyMgXb3DLNnOujA-b0/view" target="_blank">Click here to watch the video walkthrough</a>
 
   ## Screenshots
+  
+  <img width="942" alt="Screen Shot 2023-01-27 at 12 29 31 PM" src="https://user-images.githubusercontent.com/116982713/215154946-e2f94349-d73e-46bb-8373-f342084efd4a.png">
 
 
   
